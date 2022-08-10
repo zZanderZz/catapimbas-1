@@ -2,6 +2,6 @@
 
  Para excutar meu código utiliza o seguinte comando  
 ---
-se(var == 1)
+node app.js
 
 ---
